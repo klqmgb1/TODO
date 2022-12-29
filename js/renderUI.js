@@ -1,6 +1,6 @@
-class RenderHTML{
-    todo(list, id){
-        var content ="";
-        list.forEach
+class Info {
+    constructor(error,done){
+        this.error = error;
+        this.done = done;
     }
 }
